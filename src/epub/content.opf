@@ -31,7 +31,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two young writers experience romance and adventure in Lord Emsworth's Blandings Castle.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> Ashe Marson and Joan Valentine </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;&lt;em&gt;Something New&lt;/em&gt; is the first novel of what became known as the &amp;#8220;Blandings Castle Saga&amp;#8221; by P.G. Wodehouse and was published in the United States in 1915. Two Americans, Ashe Marson and Joan Valentine, endeavor to retrieve a scarab pilfered from an American millionaire by the absent-minded Lord Emsworth.&lt;/p&gt;</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2042</dc:source>
