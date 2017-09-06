@@ -4,3 +4,7 @@
 abbr.name{
 	white-space: nowrap;
 }
+
+ol.lower-alpha{
+	list-style-type: lower-alpha;
+}
