@@ -14,10 +14,6 @@ b{
 	font-weight: normal;
 }
 
-.time{
-	font-variant: small-caps;
-}
-
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
