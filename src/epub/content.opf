@@ -62,7 +62,7 @@
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">Chris Brooks</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Brooks, Chris</meta>
-		<meta property="se:url.homepage" refines="#producer-1">http://chrisbrooks.org</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://chrisbrooks.org</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
