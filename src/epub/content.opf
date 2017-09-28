@@ -32,9 +32,8 @@
 		<dc:description id="description">Two young writers experience romance and adventure in Lord Emsworth’s Blandings Castle.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;em&gt;Something New&lt;/em&gt; is the first novel of what became known as the “Blandings Castle Saga” by P. G. Wodehouse and was published in the United States in 1915. Two Americans, Ashe Marson and Joan Valentine, endeavor to retrieve a scarab pilfered from an American millionaire by the absent-minded Lord Emsworth. Marson and Valentine soon find themselves impersonating servants while evading the Efficient Baxter.&lt;/p&gt;
-
-			&lt;p&gt;The story was originally serialized in the &lt;em&gt;Saturday Evening Post&lt;/em&gt; as &lt;em&gt;Something Fresh&lt;/em&gt; in 1915. It introduced what would become the recurring characters or Blandings Castle: Lord Emsworth, Freddie Threepwood, Rupert Baxter, and Sebastian Beach.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Something New&lt;/i&gt; is the first novel of what became known as the “Blandings Castle Saga” by P. G. Wodehouse and was published in the United States in 1915. Two Americans, Ashe Marson and Joan Valentine, endeavor to retrieve a scarab pilfered from an American millionaire by the absent-minded Lord Emsworth. Marson and Valentine soon find themselves impersonating servants while evading the Efficient Baxter.&lt;/p&gt;
+			&lt;p&gt;The story was originally serialized in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; as &lt;i&gt;Something Fresh&lt;/i&gt; in 1915. It introduced what would become the recurring characters or Blandings Castle: Lord Emsworth, Freddie Threepwood, Rupert Baxter, and Sebastian Beach.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -50,10 +49,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Ernest William Haslehust</dc:contributor>
+		<meta property="file-as" refines="#artist">Haslehust, Ernest William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ernest_William_Haslehust</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88076501</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Tinsley, Jim</meta>
