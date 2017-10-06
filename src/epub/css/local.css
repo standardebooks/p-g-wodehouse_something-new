@@ -9,6 +9,14 @@ ol{
 	list-style-type: lower-alpha;
 }
 
+ol + p{
+	text-indent: 0;
+}
+
+ol > li > p:first-child{
+	text-indent: 0;
+}
+
 b{
 	font-variant: small-caps;
 	font-weight: normal;
