@@ -1,17 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 ol{
 	list-style-type: lower-alpha;
-}
-
-b{
-	font-variant: small-caps;
-	font-weight: normal;
 }
 
 [epub|type~="z3998:verse"] p{
