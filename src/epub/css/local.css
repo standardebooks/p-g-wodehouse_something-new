@@ -24,8 +24,7 @@ ol{
 	text-indent: 0;
 }
 
-blockquote.sign p{
+#chapter-2 blockquote{
 	text-align: center;
-	text-indent: 0;
 	font-variant: small-caps;
 }
