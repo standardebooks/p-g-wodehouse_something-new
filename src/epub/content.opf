@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2042</dc:source>
 		<dc:source>https://books.google.com/books?id=bG8WAAAAYAAJ</dc:source>
 		<meta property="se:word-count">76459</meta>
-		<meta property="se:reading-ease.flesch">74.59</meta>
+		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Something_New</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_something-new</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
