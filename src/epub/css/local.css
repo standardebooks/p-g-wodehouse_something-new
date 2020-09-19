@@ -20,10 +20,6 @@ ol{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
-
 #chapter-2 blockquote{
 	text-align: center;
 	font-variant: small-caps;
