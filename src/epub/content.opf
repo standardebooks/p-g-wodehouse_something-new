@@ -67,8 +67,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Tinsley, Jim</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">Chris Brooks</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Brooks, Chris</meta>
