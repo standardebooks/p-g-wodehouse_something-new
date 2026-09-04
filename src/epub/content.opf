@@ -31,9 +31,9 @@
 		<dc:title id="title">Something New</dc:title>
 		<meta property="file-as" refines="#title">Something New</meta>
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
-		<dc:subject id="subject-2">Nobility -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Blandings Castle (England : Imaginary place) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Shropshire (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Nobility--Fiction</dc:subject>
+		<dc:subject id="subject-3">Blandings Castle (England : Imaginary place)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Shropshire (England)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
