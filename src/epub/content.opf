@@ -71,9 +71,11 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Tinsley</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Tinsley, Jim</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Chris Brooks</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Brooks, Chris</meta>
 		<link href="https://chrisbrooks.org/" refines="#producer-1" rel="schema:url"/>
